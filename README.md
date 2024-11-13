@@ -2,7 +2,7 @@
 
 ## Title of the Project
 
-Implementation of Credit Monitoring system for BFS using Virtual Bank
+### Implementation of Credit Monitoring system for BFS using Virtual Bank
 
 A Rise of virtual banking which are used to manage credits and monitor them to enhance risk prediction, fraud detection, and personalized credit management in Plant Engineering.
 
