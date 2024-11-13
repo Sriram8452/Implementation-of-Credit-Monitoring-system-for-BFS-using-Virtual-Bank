@@ -1,12 +1,12 @@
 # Implementation-of-Credit-Monitoring-system-for-BFS-using-Virtual-Bank
 
-# Title of the Project
+## Title of the Project
 Small description about the project like one below The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
 
-# About
+## About
 Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
 
-# Features
+## Features
 Implements advance neural network method.
 A framework based application for deployment purpose.
 High scalability.
@@ -23,7 +23,7 @@ Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), Ten
 System Architecture
 Screenshot 2023-11-25 133637
 
-# Output
+## Output
 Output1 - Name of the output
 Screenshot 2023-11-25 134037
 
@@ -32,7 +32,7 @@ Screenshot 2023-11-25 134253
 
 Detection Accuracy: 96.7% Note: These metrics can be customized based on your actual performance evaluations.
 
-# Results and Impact
+## Results and Impact
 The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
