@@ -32,10 +32,25 @@ Effective credit management in plant engineering requires integrating multiple d
 
 
 ## Results and Impact
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Improved financial oversight and risk management: Integration tools enable real-time decision-making, enhanced credit risk assessment, and proactive fraud detection through automated alerts and monitoring.
 
-Articles published / References
-N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+Increased operational efficiency: Seamless integration of financial data streamlines resource allocation, optimizes cash flow, and enhances overall project execution for plant engineering firms.
+
+Enhanced regulatory compliance: The solution ensures adherence to AML and KYC standards, reducing the risk of legal penalties and ensuring smoother regulatory processes.
+
+Stronger financial stability and growth: Personalized credit-building strategies and advanced data analytics help improve creditworthiness, providing a competitive edge and fostering sustainable business growth.
+
+
+## References
+
+Sally Chen & Derryl D'Silva & Frank Packer & Siddharth Tiwari, 2022. "Virtual banking and beyond," BIS Papers, Bank for International Settlements, number 120.
+
+Nadia Sha (Sultanate of Oman), Shariq Mohammed (Sultanate of Oman). 2017. "Virtual banking and online business." Banks and Bank Systems, Volume 12, Issue 1, pp. 75-81.
+
+Jal Power Corporation Limited (JPCL). (2021). Resolution of Jal Power Corporation Limited. Indian Institute of Insolvency Professionals of ICAI.
+
+Orchid Pharma Limited. (2021). Resolution of Orchid Pharma Limited. Indian Institute of Insolvency Professionals of ICAI.
+
+Moser Baer India Limited (MBIL). (2021). Liquidation of Moser Baer India Limited. Indian Institute of Insolvency Professionals of ICAI.
+
