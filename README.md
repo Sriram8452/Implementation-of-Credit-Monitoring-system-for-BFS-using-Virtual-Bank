@@ -33,13 +33,17 @@ Effective credit management in plant engineering requires integrating multiple d
 
 ## Results and Impact
 
-Improved financial oversight and risk management: Integration tools enable real-time decision-making, enhanced credit risk assessment, and proactive fraud detection through automated alerts and monitoring.
+#### Improved financial oversight and risk management: 
+Integration tools enable real-time decision-making, enhanced credit risk assessment, and proactive fraud detection through automated alerts and monitoring.
 
-Increased operational efficiency: Seamless integration of financial data streamlines resource allocation, optimizes cash flow, and enhances overall project execution for plant engineering firms.
+#### Increased operational efficiency: 
+Seamless integration of financial data streamlines resource allocation, optimizes cash flow, and enhances overall project execution for plant engineering firms.
 
-Enhanced regulatory compliance: The solution ensures adherence to AML and KYC standards, reducing the risk of legal penalties and ensuring smoother regulatory processes.
+#### Enhanced regulatory compliance: 
+The solution ensures adherence to AML and KYC standards, reducing the risk of legal penalties and ensuring smoother regulatory processes.
 
-Stronger financial stability and growth: Personalized credit-building strategies and advanced data analytics help improve creditworthiness, providing a competitive edge and fostering sustainable business growth.
+#### Stronger financial stability and growth: 
+Personalized credit-building strategies and advanced data analytics help improve creditworthiness, providing a competitive edge and fostering sustainable business growth.
 
 
 ## References
