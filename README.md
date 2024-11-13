@@ -25,13 +25,11 @@ Effective credit management in plant engineering requires integrating multiple d
 
 
 ## Output
-Output1 - Name of the output
-Screenshot 2023-11-25 134037
 
-Output2 - Name of the output
-Screenshot 2023-11-25 134253
+![image](https://github.com/user-attachments/assets/94deb103-f70a-4786-bea2-afd8aa9b079e)
 
-Detection Accuracy: 96.7% Note: These metrics can be customized based on your actual performance evaluations.
+![image](https://github.com/user-attachments/assets/dbb14c3c-7b6f-4045-a46e-e298c5def42c)
+
 
 ## Results and Impact
 The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
